@@ -1,16 +1,16 @@
 {
-  "name": "boilerplate-code-django-dashboard",
-  "mastertemplate": "boilerplate-code-flask-dashboard",
+  "name": "boilerplate-code-django",
+  "mastertemplate": "boilerplate-code-django",
   "version": "1.0.1",
-  "description": "Template project - Django Dashboard Boilerplate Code.",
+  "description": "Template project - Django Boilerplate Code",
   "scripts": {
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/app-generator/boilerplate-code-django-dashboard"
+      "url": "https://github.com/app-generator/boilerplate-code-django"
   },
   "bugs": {
-      "url": "https://github.com/app-generator/boilerplate-code-django-dashboard/issues",
+      "url": "https://github.com/app-generator/boilerplate-code-django/issues",
       "email": "support@appseed.us"
   },
   "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",
