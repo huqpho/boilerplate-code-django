@@ -1,7 +1,10 @@
 # Change Log
 
 ## Unreleased
-### Bug fixes
+### Bug fixes, Improvements
+
+- 2020-06-28 - Update the UI Kit
+    - Quick UI KIt by Webpixels
 
 - Patch #3 - Whitenoise Fix - Wrong positioning in 'core/settings.py'
     - WhiteNoiseMiddleware must be positioned right after SecurityMiddleware

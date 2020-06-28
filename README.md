@@ -2,7 +2,8 @@
 
 > Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Django](https://www.djangoproject.com/) - Features:
 
-- UI Kit: [Neumorphism UI](https://themesberg.com/product/ui-kits/neumorphism-ui) by Themesberg
+- UI Kit: **Quick** (Free Version) by **Webpixels**
+- Theme: [Jinja2 Quick UI Kit](https://github.com/app-generator/theme-jinja2-quick-uikit)
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
