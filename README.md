@@ -3,22 +3,17 @@
 > Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Django](https://www.djangoproject.com/) - Features:
 
 - UI Kit: **Quick** (Free Version) by **Webpixels**
-- Theme: [Jinja2 Quick UI Kit](https://github.com/app-generator/theme-jinja2-quick-uikit)
-- UI-Ready app, SQLite Database, Django Native ORM
-- Modular design, clean code-base
+- SQLite Database, Django Native ORM
+- Modular design, clean codebase
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** issues tracker
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
 - [Boierplate Code Django](https://boilerplate-code-django.appseed.us/) - LIVE Demo
 - [Boierplate Code Django](https://docs.appseed.us/boilerplate-code/django/) - Documentation
 - [Boierplate Code Django](https://appseed.us/boilerplate-code/django-boilerplate) - Official product page
-- More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
-- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
 
 <br />
 
