@@ -1,7 +1,11 @@
 # Change Log
 
-## Unreleased
-### Bug fixes, Improvements
+## [1.0.3] 2021-01-01
+### Bug fixing, Improvements
+
+- 2021-01-01 - Improvements
+    - Update login form label
+    - Inject the current page name in view (segment variable) 
 
 - 2020-06-28 - Update the UI Kit
     - Quick UI KIt by Webpixels
