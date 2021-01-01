@@ -29,6 +29,8 @@
                                 </p>
                             </div>
                             <span class="clearfix"></span>
+
+                            {% if not success %}
                             <form method="post" action="" class="mt-4">
 
                                 {% csrf_token %}
@@ -88,6 +90,8 @@
                                 <div class="mt-4">
                                     <button type="submit" name="register" class="btn btn-block btn-primary">Sign in</button></div>
                             </form>
+                            {% endif %}
+                            
                         </div>
                         <div class="card-footer px-md-5"><small>Already registered?</small>
                             <a href="{% url 'login' %}" class="small font-weight-bold">Login</a>
